@@ -15,15 +15,18 @@
   text-align: center;
   padding: 7% 15%;
   background-color: #fff;
+  position: relative;
 }
 
 .container-fluid {
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 
 .dog-photo{
   width: 60%;
   transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
 }
 
 /* Main elements */
