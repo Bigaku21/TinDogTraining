@@ -157,7 +157,7 @@ h3 {
   text-align: center;
   background-color: #ff4c68;
   color: #fff;
-  padding: 7% 15%;
+  padding: 5% 15%;
 }
 
 #footer{
@@ -167,6 +167,6 @@ h3 {
   position: relative;
 }
 
-.footer-icon {
-  margin: 5;
+.footer-icons {
+  margin: 20px 10px;
 }
